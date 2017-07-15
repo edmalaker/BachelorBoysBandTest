@@ -42,13 +42,13 @@
     <nav class = "sticky">
 		<div class="topnav" id="myTopnav">
 		
-		    <a href="index.php" title="Who We Are"><span class = "imhere"> WHO WE ARE </span></a>
+		    <a href="index.php" title="Who We Are">WHO WE ARE</a>
 		
 		    <a href="Wedding-Bands.php" title="Weddings">WEDDINGS</a>
 		
 		    <a href="Corporate.php" title="Corporate Events">CORPORATE EVENTS</a>
 		
-		    <a href="Festivals.php" title="Festivals">FESTIVALS</a>
+		    <a href="Festivals.php" title="Festivals"><span class = "imhere">FESTIVALS</span></a>
 		
 		    <a href="Wedding-Bands-Gig-Guide.php" title="See Us Play">SEE US PLAY</a>
 		
@@ -80,10 +80,10 @@
 	
     <!-- carousel -->
 		<div class="w3-content w3-section" style="max-width:100%">
-		    <img class="mySlides w3-animate-fading" src="img/wedding_band_home_01.jpg" style="width:100%">
-            <img class="mySlides w3-animate-fading" src="img/wedding_band_home_02.jpg" alt="Bachelor Boys Band - Wedding Band  - Who We Are" style="width:100%">
-            <img class="mySlides w3-animate-fading" src="img/wedding_band_home_03.jpg" alt="Bachelor Boys Band - Wedding Band  - Who We Are" style="width:100%">
-            <img class="mySlides w3-animate-fading" src="img/wedding_band_home_04.jpg" alt="Bachelor Boys Band - Wedding Band  - Who We Are" style="width:100%">
+		    <img class="mySlides w3-animate-fading" src="img/wedding_band_festivals_01.jpg" alt="Bachelor Boys Band - Wedding Band  - Weddings" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="img/wedding_band_festivals_02.jpg" alt="Bachelor Boys Band - Wedding Band  - Weddings" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="img/wedding_band_festivals_03.jpg" alt="Bachelor Boys Band - Wedding Band  - Weddings" style="width:100%">
+            <img class="mySlides w3-animate-fading" src="img/wedding_band_festivals_04.jpg" alt="Bachelor Boys Band - Wedding Band  - Weddings" style="width:100%">
 		</div>
 		
 		
@@ -122,109 +122,45 @@
     </script>
 	
 </header>
-<!-- end of header -->
+
+    <div class="intro">
+	
+	    <div class="introtextcontainer">
 		
+		    <div class="introtext">
 		
-	<!-- Who we are -->	
-    <div class="whoweare">
-	
-        <h1>WHO WE ARE</h1>
-
-	    <p>The Bachelor Boys are a premium 3-14 piece band specializing in high-energy music for festivals, weddings, corporate events and private functions - 
-        at a sensible price. We pride ourselves on having a "cooler-than-average" song list that is never cheesy, and focuses squarely on filling your dance floor. With the Bachelor Boys you'll get 
-        the best musicians in the country, playing your favorite music. Where we play: Mostly in Philadephia, Baltimore, Richmond, Pittsburgh and Washington D.C., but we travel around the world.</p>
-
-    </div>
-	
-	
-	<!-- See us play -->
-	<div class="seeusplay">
-	
-	<h2><a href="Wedding_Band/Wedding-Bands-Gig-Guide.php.html">SEE US PLAY</a></h2>
-
-    <p>Join us at one of our regular Bachelor Boys Band showcases to see us live in action for yourself. At the showcase, we will present a number of different band sizes and configurations, 
-    so you can find the style that grabs you. It's a fun night out and an excellent demonstration of our passion, professionalism and our versatility.</p>
-
-	</div>
-	
-	
-	<!-- Shows -->
-	<div class = "shows">
-	
-	    <div class = "linkcontainer">
-	        <div class = "circlelink">
-                <a href="Wedding_Band/Wedding-Bands-Gig-Guide.php.html">
-			        <div class = "circlelinktop">UPCOMING SHOWCASES</div>
-				    <div class = "circlelinkmiddle"><hr /></div>
-				    <div class = "circlelinkbottom">FREE PUBLIC GIGS TO <br/>SEE THE BAND LIVE</div>
-			    </a>
+	            <h1>FESTIVALS</h1>
+				<h2>...AND EVERYTHING IN BETWEEN</h2>
+		
+	            <p>When your event needs to impress with more than just a DJ spinning the same old standard tracks, or a tired cover band trying to start a group dance... the Bachelor Boys Band is for you!
+                Inviting the Bachelor Boys to perform at your next party or event will mean you are serious about wanting your dance floor to be full, you want sore feet from dancing all night, and you better 
+				believe you want a rough voice from singing along to all your favorite songs with your family and friends. Hey - having this much fun doesn't come without compromises, but we know you wouldn't 
+				settle for anything less for your big event, and neither would we!</p>
+				
 		    </div>
-	    </div>
+		</div>
 		
-		<div class = "showlist">
-		
-		    <table class = "showlisttext">
-                <tr>
-                    <th>location</th>
-                    <th>date</th>
-	                <th>venue</th>
-	                <th>time</th>
-                </tr>
-                <tr>
-                    <td>Arlington</td>
-	                <td>Mon Jul 17th</td>
-                    <td>Iota Club</td>
-	                <td>8pm</td>
-                </tr>
-				<tr>
-                    <td>Baltimore</td>
-	                <td>Tue Jul 18th</td>
-                    <td>The Windup Space Bar</td>
-	                <td>7:30pm</td>
-                </tr>
-				<tr>
-                    <td>Pittsburgh</td>
-	                <td>Tue Jul 25th</td>
-                    <td>James Street Gastropub</td>
-	                <td>7:30pm</td>
-                </tr>
-				<tr>
-                    <td>Philadelphia</td>
-	                <td>Wed Jul 26th</td>
-                    <td>The Twisted Tail</td>
-	                <td>8pm</td>
-                </tr>
-				<tr>
-                    <td>Richmond</td>
-	                <td>Wed Aug 23rd</td>
-                    <td>The Camel Bar</td>
-	                <td>7pm</td>
-                </tr>
-            </table>
-            
+		<div class = "circlelinkp2container">
+		    <div class = "circlelinkp2">
 			
-        </div>
-
-    </div>
-	
-	<!-- VIDEOS -->
-	<div class = "twovideocontainer">
-
-        <div class = "videocontainer1">
-            <iframe src="https://www.youtube.com/embed/QFzh6n9hGKg?showinfo=0&hd=1&rel=0&hl=en-us&origin=https://www.BachelorBoysBand.com" frameborder="0" allowfullscreen class="video"></iframe>
-        </div>
-
-        <div class = "videocontainer2">
-            <iframe  src="https://www.youtube.com/embed/_LpfMjHMa-o?showinfo=0&hd=1&rel=0&hl=en-us&origin=https://www.BachelorBoysBand.com" frameborder="0" allowfullscreen class="video"></iframe>
+                <div class = "circlelinktop">Where we play</div>
+				<div class = "circlelinkmiddle"><hr /></div>
+		        <div class = "circlelink2bottom">Central to: Philadephia, Baltimore, Richmond and Pittsburgh, but we travel around the world.</div>
+				
+            </div>
         </div>
 		
 	</div>
-
+	
 	<!-- MUSIC STYLES -->
     <div class="music">
-        <h2><a href="Wedding-Bands-Songs.php.html">STYLES</a></h2>
-	    <p>The Bachelor Boys can perform a unique mix of songs all individually tailored to meet the tastes of you and your guests. Head to <a href="Wedding-Bands-Songs.php.html">Our Music</a> for more examples from our song list, and some sample recordings.</p>
 	
+        <h2><a href="Wedding-Bands-Songs.php.html">STYLES</a></h2>
+		
+	    <p>The Bachelor Boys play an enormous variety of styles, to suit any type of event. We know the exact mix of songs that will take your party from casual mingling, to a full, off the charts jumping dance 
+		party! If that’s what you want of course. See a selection of our set list below, or head on over to <a href="../Wedding-Bands-Songs.php.html">Our Music</a> page to see a wider selection and hear some 
+		recordings.</p>
+		
 	<div class = "genresback">
 	
 	    <a href="Wedding-Bands-Songs.php.html">
@@ -641,225 +577,177 @@
 	</div>
 	</div>
 	
-	<!-- BOOKING -->
-	<div class="booking">
 	
-	    <h2>BOOK US</h2>
+	<div class = "availability">
+	
+	    <h2>AVAILABLE FOR ALL TYPES OF EVENTS</h2>
 
-        <p>For many people, booking a band is a daunting task. The Bachelor Boys Band prides itself on a level of pre-event service that is unrivaled - we guarantee that the band will be the easiest part of 
-		planning your event. Any logistical complications are taken care of behind the scenes, and we proactively guide you through the process so that you can simply enjoy your event to the fullest. Just 
-		tell us about your vision, and let us take care of the rest.</p>
+        <p>The Bachelor Boys are available for any event you might need live music for. We have years of experience with all types of events big or small and of varying cultural and social significance. Please 
+		consider the Bachelor Boys Band if you are looking for entertainment options for anything, Birthday Parties, Bar / Bat Mitzvahs, Christmas Parties, Trade Shows, TV Shows & Open Days. We have options to 
+		suit any event, so speak to us today! (link) The Bachelor Boys Band reconfigures itself to play even the most epic scale events. If you require, we employ our own in house production crew for industrial 
+		sound, staging, lights and engineering. We are in our element performing alongside the biggest artists in the world. No challenge is too large or too small - we’re here to help make it happen.</p>
 
-		<h6>Click below for more info on pricing and to see how we can help you with your specific event...</h6>
+    </div>
+	
+	<div class ="sizeandpricing">
+	
+	    <div class ="bandsize2">
 		
-		
-        <a href="Wedding_Band/Wedding-Bands.php.html">
-		<div class = "linkcontainer2">
-		    <div class = "thelink">
-		        <img src="img/links/WeddingPage_Colour.jpg" alt="Paris">
+		    <h2>Size</h2>
 			
-		        <div class = "textoverlay">
-                    <h3>Weddings</h3>
-                    <span>Ceremony, Cocktail Hour, Reception. We are wedding entertainment experts.</span>
-			    </div>
-				
-		    </div>
-		</div>
-        </a>
-		
-
-        <a href="Wedding_Band/Corporate.php.html">
-		<div class = "linkcontainer2">
-		    <div class = "thelink">
-		        <img src="img/links/CorporatePage_Colour.jpg" alt="Paris">
+			<h6>A 3 to 14 piece band tailored to your needs</h6>
 			
-	            <div class = "textoverlay">
-                    <h3>Corporate Events</h3>
-                    <span>Professional, versatile & highly organized musicians available for any scale event.</span>
-		        </div>
-				
-		    </div>
-		</div>
-        </a>
+			<!-- images -->
+			<div class="sizeimage1"></div>
+            <div class="sizeimage2"></div>
+            <div class="sizeimage3"></div>
 		
-
-        <a href="Wedding_Band/Festivals.php.html">
-        <div class = "linkcontainer2">
-		    <div class = "thelink">
-		        <img src="img/links/FestivalPage_Colour.jpg" alt="Paris">
+		</div>
+		
+		<div class = "pricing2">
+		
+		    <div class = "pricingtextcontainer">
 			
-		        <div class = "textoverlay">
-                    <h3>Festivals</h3>
-                    <span>Parties, Festivals, Bar/Bat Mitzvahs, any event, large or small.</span>
-		        </div>
+			    <h2>PRICING</h2>
+
+                <p>Pricing is all-inclusive, with no hidden extras: including tax, insurance, sound system, mixing, complimentary basic DJ service. The Bachelor Boys Band is the real-deal - no backing tracks, 
+				and no smoke and mirrors.  Just genuine, pro-grade musicians, playing real music.</p>
+
+                <p>We are nothing less than meticulous through the planning stages. You get rock-solid support, and our experienced planning team- this is the reason that some of the biggest event planners in 
+				the world keep coming back to us.</p>
+
+                <p>You will be safe in the knowledge that you don't need to worry about a thing. We will be there to cue the perfect entrance, then later on get that party jumping....!</p>
+
+			</div>
+			
+			<div class = "pricingtextcontainer">
+                <a class ="pricingboxlink1" href="../Wedding-Bands/Wedding-Bands-Contact-Details.php.html">Contact us</a>			
+			</div>
+
+            <div class = "pricingtextcontainer">
+                <h3>examples from recent events</h3>
+
+                <p>Pricing is based on a variety of individual factors, but here are some example quotes from events we have performed recently:</p>
+                
+                <h4>3 Piece Reception Band - $1980</h4>
 				
-		    </div>
+                <p>A solid band with the foundations for an awesome party!</p>
+
+                <h4>5 Piece Reception Band + Ceremony Acoustic Duo + MC - $3490</h4>
+				
+                <p>Acoustic music to guide you down the aisle, And a rocking band to get the party roaring!</p>
+
+                <h4>8 Piece Reception Band + Ceremony String Trio + MC - $5500</h4>
+				
+                <p>Beautiful classical music as you walk down the aisle to a string trio. Come to the reception; be welcomed by the full band including horn section! There is nothing like the sounds of that horn 
+				section to get people on their feet and really impress!</p>
+
+                <h4>Deluxe package: Full industrial stage/lighting, huge 13 Piece Band, Ceremony String Quartet - $12,000</h4>
+
+				<p>Make the ultimate statement.  We will have you walking down the aisle to a full string quartet. We will supply a full stage and industrial lighting package for a whole extra kind wow factor. 
+				A dedicated MC will coordinate all proceedings, and the epic sized band will take your party to the next level.</p>
+
+                <p>Every wedding is unique: <a href="%7BmainLinks%5Bcontact%5D%5Burl%5D/index.html">speak to us about a tailored quote</a> that meets your requirements exactly.</p>
+				
+            </div>    
+
+
+                <a class ="pricingboxlink2" href="../Wedding-Bands/Wedding-Bands-Contact-Details.php.html">Click here for a quote</a>
+            
+		
 		</div>
-        </a>
-		
-		
+	
 	</div>
 	
-	<!-- REVIEWS AND RECOGNITION -->
-	<div class = "reviewsandrecognition">
+	<div class = "bookingandworking">
 	
-	    <div class = "clientssay">
-	        <h2>OUR CLIENTS SAY</h2>	
-			
-			<blockquote class = "quote">
-			    <h3> One of the best decisions we made </h3>
-                <p>SPECTACULAR! Hiring the Bachelor Boys Band was one of the best decisions we made for our wedding. Not only were they incredibly easy to work with and helped us think of every detail for the 
-				night, they played amazing music all night that both our parents friends and ourfriends knew! They did an incredible job of MCing the event and organized the wedding party for the announcement 
-				so we didnt have to think about it. They also easily took care of every aspect of music for the evening through the ceremony, cocktail hour and reception, and covered totally different types of 
-				music throughout the night. During the reception, they had guests dancing the entire time, right until the end. Most of our guests told us the next day that was one of the best wedding bands they 
-				had ever heard, and one of our friends even said he danced more in the first 20 minutes of our wedding than he had cumulatively at many others. I cannot recommend these guys highly enough!</p>
-				<h6>Review via TheKnot On 3/30/2016 by Quinn T.</h6>
-			</blockquote>
-			
-			<blockquote class = "quote">
-            <h3> Absolutely amazing Band!! </h3>
-            <p>Absolutely amazing Band!! If we could give them more stars we would. From the very first email interaction to the last song of the night, the Bachelor Boys Band was perfect and one of our best 
-			decisions for our wedding! The musicians are very talented, friendly, and fun! They created a great vibe for the evening. And the coordinator for the pre-event details was absolutely wonderful - he 
-			was very responsive, accommodating, and I was never left with any doubt about our decision to have the Band at our reception. Our dance floor was never empty - even our 85 yr old grandparents danced 
-			for a majority of the night!! If youre considering Bachelor Boys Band for your event, you will not be disappointed!</p>
-			<h6>Review via TheKnot On 3/27/2016 by Jaime F.</h6>
-			</blockquote>
-			
-			<blockquote class = "quote">
-            <h3> We would hire them again! </h3>
-            <p>The Bachelor Boys were great! They were so helpful leading up to the day of the wedding. My daughter had choreographed a dance for her and her dad and they helped with the music for that - mixing 
-			the music. They were so flexible and willing to help! The music was great and everybody really enjoyed them! We had the 6 piece band and that was the perfect size. The horns really added a lot to the 
-			sound of the music. We thought it was well worth the money!!!! We would hire them again!</p>
-            <h6>Review via WeddingWire On 1/02/2016 by Susan.</h6>
-			</blockquote>
-			
-			<blockquote class = "quote">
-            <h3>The party is taken care of! </h3>
-            <p>All I have to say is WOW! We stumbled across the Bachelor Boys Band on youtube and instantly were impressed! After seeing them in a showcase it was a done deal and we knew we were booking them for 
-			our wedding! Amber was our point of contact from day 1 and she made everything so EASY and stress free! She was quick to respond to all of my questions and made planning a breeze. At our wedding at 
-			The Waterfall, they were able to accommodate a 2 piece for the ceremony, a 3 piece jazz piece for the cocktail hour, and a full 10 piece band for our reception with them MCing and DJing between sets! 
-			Every single part was fantastic and my guests are still raving about the music. They did NOT disappoint! I only wish we could have stayed longer as my guests were still on the dance floor (I had a party 
-			crowd for sure, and there was no one sitting!). THANK you Amber & the entire band for an unforgettable night!</p>
-            <h6>Review via WeddingWire On 11/14/2016 by Rachel.</h6>
-			</blockquote>
-			
-			<blockquote class = "quote">
-            <h3> EXCELLENT BAND </h3>
-            <p>I wanted a young energetic band that could appeal to my friends in their 20s and 30s and to my family, many of whom are in their older years. This band was able to make a wide range of people happy 
-			and keep them energetically on the dance floor. Diego was our MC and was very polite and pleasant to work with on the wedding day. Andrew, the manager, was amazing. We had a lot of hesitation about 
-			spending the extra money to hire a band over a DJ and Andrew was willing to work with us and answer all of our questions and provide suggestions for us to get what we wanted. In the end I am thrilled 
-			that we went with this band, and I would truly recommend them!</p>
-            <h6>Review via TheKnot On 10/19/2015 by Carolyn B</h6>
-			</blockquote>
-			
-	    
-			
-			<button class="quotebuttonleft" onclick="plusDivs(-1)">&#10094;</button>
-            <button class="quotebuttonright" onclick="plusDivs(1)">&#10095;</button>
-			
-		</div>	
-	   
-		<!-- Script for quote carousel -->
-		<script>
-            var quoteIndex = 1;
-            showDivs(quoteIndex);
+	    <div class="booking2">
+		    <h2>HOW TO BOOK</h2>
 
-            function plusDivs(n) 
-			    {
-                    showDivs(quoteIndex += n);
-                }
+            <ul>
 
-            function showDivs(n) 
-			    {
-                    var i;
-                    var x = document.getElementsByClassName("quote");
-					
-                    if (n > x.length) {quoteIndex = 1}    
-                    if (n < 1) {quoteIndex = x.length}
-                    for (i = 0; i < x.length; i++) 
-					{
-                        x[i].style.display = "none";  
-                    }
-				
-                    x[quoteIndex-1].style.display = "block";  
-                }
-        </script>
-		
-		
-		<div class="awards">
-		    <h2>RECOGNITION</h2>
+                <li>
+                    <h3>1 <a href="../Wedding-Bands/Wedding-Bands-Contact-Details.php.html">contact us</a></h3>
 
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/CouplesChoice2015.png" alt="Wedding Wire - Couple%27s Choice 2015" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-			    <img src="img/awards/CouplesChoice2016.png" alt="Wedding Wire - Couple%27s Choice 2016" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/CouplesChoice2017.png" alt="Wedding Wire - Couple%27s Choice 2017" />
-			</div>
-			
-			
-            <div class = "awardsimagecontainer">
-                <img src="img/awards/2015BOW_VendorProfile_Blue_300x300.jpg" alt="The Knot - Best of Weddings 2015" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/2016BOW_VendorProfile_Blue_300x300.jpg" alt="The Knot - Best of Weddings 2016" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/2017BOW_VendorProfile_Blue_300x300.jpg" alt="The Knot - Best of Weddings 2017" />
-			</div>
-			
-			
-            <div class = "awardsimagecontainer">
-                <img src="img/awards/BB2016.jpg" alt="B&B Award 2016" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/BB2017.jpg" alt="B&B Award 2017" />
-			</div>
-			
-			<div class = "awardsimagecontainer">
-                <img src="img/awards/gay_weddings_icon.jpg" alt="Gay Weddings by Weddingwire.com" />
-			</div>
+				    <div>
+                        Fill out our <a href="../Wedding-Bands/Wedding-Bands-Contact-Details.php.html">quick, easy online form</a>. We will then check our availability, and send you a rough quote. Ask us any 
+					    questions; we want to get a feel for the kind of event you are planning. From there, we can provide you with more detailed information tailored to your specific event and needs, and 
+					    will send you out an information booklet with free demo CD.
+                    </div>
+                </li>
+
+                <li>
+                    <h3>2 <a href="Wedding-Bands-Gig-Guide.php.html">come see us play</a></h3>
+
+					<div>
+                        To save you gate-crashing someone’s wedding, the Bachelor Boys Band host regular ‘showcases’ at live music venues, where you can see and hear the band for yourself. We will show off all 
+						our band sizes and styles so you can decide what suits you. Join us for a fun night! If you like, sit down and talk to us one-on-one and meet the band - Live gigs dates are 
+						listed <a href="Wedding-Bands-Gig-Guide.php.html">here</a>.
+                    </div>
+                </li>
+
+                <li>
+                    <h3>3 place a deposit</h3>
+
+					<div>
+                        If you like what you see, you can reserve the band securely for your date by placing a 20% deposit. Payment can be made via check, credit card, bank transfer, or in person at a showcase. 
+						You don't need to have a perfectly defined schedule yet - just enough so that we know we're all on the same page.
+                    </div>
+                </li>
+            </ul>
 
         </div>
-		  
-      
 		
+		    <div class = "working">
+			
+			    <h2>WORKING WITH US</h2>
+
+			    <ul>
+
+                    <li>
+                        <h3>4 planning</h3>
+						
+                        <P>
+                            By the time you have solidified everything from your venue, catering, decorations and logistics etc. the planning stage might take months- we'll help you as much as you'd like to work 
+							the music into the bigger picture. Or simply tell us the general vibe you're looking for, and we'll figure it all for you.
+                        </P>
+						
+                    </li>
+
+                    <li>
+                        <h3>5 confirmation</h3>
+
+					    <P>
+                        After you are satisfied with your final plan, we'll formally run through your times and plan for the day, and polish it all until we're all sure that it’s perfect. This usually happens around a 
+					    week before the event, but sometimes earlier if you are super-organized.
+                        </P>
+                    </li>
+
+                    <li>
+                        <h3>6 on the day</h3>
+						
+                        <P>
+                            With everything organized, there is nothing more for you to think about on your day, other than marrying your partner and have an incredible day, celebrating with an amazing band! 
+                        </P>
+                    </li>
+
+                </ul>
+		
+		    </div>
+	
 	</div>
 	
-	<!-- Contact -->
-	<div class = "contactrow">
+	<div class = "touchplay">
+	    <div class = "getintouch">
+	        <a href="../Wedding-Bands/Wedding-Bands-Contact-Details.php.html">GET IN TOUCH</a>
+		</div>
+
+		<div class = "hearplay">
+            <a href="Wedding-Bands-Gig-Guide.php.html">HEAR US PLAY</a>
+		</div>
 	
-	    <div class="promopack">
-	        <a href="Wedding-Bands/Wedding-Bands-Contact-Details.php.html">Get a promo pack with a free demo CD</a>
-	    </div>
-		
-	    <div class="contact">
-	        <a href="Wedding-Bands/Wedding-Bands-Contact-Details.php.html">Contact Us</a>
-	    </div>
-		
 	</div>
-	
-	
-	
 	
 	<?php  
-require_once('footer.php');  
-?>  
-	
-	
-	
-	
-	
-	
-
-
-</div>
-</body>
-</html>
+    require_once('footer.php');  
+    ?>  

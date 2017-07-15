@@ -229,6 +229,9 @@ text-align:center;
 
 .music p {
 font-size: .85em;
+padding-left:20px;
+padding-right:20px;
+text-align:left;
 }
 
 .music p a {
@@ -630,7 +633,7 @@ float:right;
 height:500px;
 width:48%;
 background-image: url("/bachelorboysband/img/links/BAND_12PC_BW.jpg");
-background-size: 100% 500px;;
+background-size: 100% 500px;
 }
 
 .contact a {
@@ -685,6 +688,395 @@ padding-bottom:50px;
 
 /* -- END FIRST PAGE "WHO WE ARE" css -- */
 
+
+
+/* -- SECOND PAGE PAGE "WEDDINGS" css -- */
+
+.intro{
+width:90%;
+margin-top:30px;
+margin-left:5%;
+margin-bottom:30px;
+text-align:center;
+float:left
+}
+
+.introtextcontainer{
+width:70%;
+float:left;
+}
+
+.introtext{
+float:right;
+width:70%;
+}
+
+.introtext h1{
+font-size:3.5em;
+}
+
+
+.circlelinkp2container{
+width:30%;
+float:right;
+}
+
+.circlelinkp2{
+color:#fff;
+margin-left:auto;
+margin-right:auto;
+background-color:#333;
+width: 190px;
+height: 190px;
+border-radius: 500px;
+text-transform:uppercase;
+font-size: .9em;
+padding-top:10px;
+}
+
+.circlelink2bottom{
+width:70%;
+margin-left:15%;
+margin-top:-8px;
+margin-bottom:10px;
+font-size: .76em;
+}
+
+.weddingservices{
+width:80%;
+float:left;
+margin-left:10%;
+margin-bottom:50px;
+}
+
+.weddingservicesheader{
+margin-top:50px;
+width:100%;
+text-align:center;
+}
+
+.weddingservicesheader h1{
+font-size:2.5em;
+padding-bottom:15px;
+}
+
+.weddingservicescolumn{
+width:33.33%;
+float:left;
+}
+
+.weddingservicestext{
+width:90%;
+margin-left:auto;
+margin-right:auto;
+}
+
+.weddingservicestext h3{
+display:box;
+width:100%;
+background-color:#F03828;
+text-align:center;
+color:#fff;
+border-radius:5px;
+}
+
+.sizeandpricing
+{
+width:90%;
+float:left;
+margin-top:30px;
+margin-left:5%;
+margin-bottom:50px;
+}
+
+.bandsize{
+width:47.5%;
+float:left;
+text-align:center;
+border-color:#000;
+border-width:1px;
+border-style:solid;
+overflow:hidden;
+}
+
+.bandsize h6{
+margin-top:-15px;
+}
+
+.sizeimage1{
+background-image: url("/bachelorboysband/img/links/BAND_3PC_BW.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+width:669px;
+height:400px;
+margin-left:.4%;
+}
+
+.sizeimage2{
+margin-top:5px;
+background-image: url("/bachelorboysband/img/links/BAND_5PC_BW.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+width:669px;
+height:400px;
+margin-left:.4%;
+}
+
+.sizeimage3{
+margin-top:5px;
+margin-bottom:5px;
+background-image: url("/bachelorboysband/img/links/BAND_12PC_BW.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+width:669px;
+height:400px;
+margin-left:.4%;
+}
+
+.pricing{
+width:47.5%;
+float:right;
+background-color:#F03828;
+padding:35px;
+}
+
+
+.pricing h2,h3{
+text-align:center;
+}
+
+.pricing h4{
+color:#fff;
+}
+
+.pricing p{
+margin-top:-10px;
+margin-bottom:36px;
+}
+
+.pricingtextcontainer{
+width:100%;
+float:left;
+margin-bottom:30px;
+}
+
+.pricingboxlink1{
+display:box;
+background-color:#333;
+color:#fff;
+width:200px;
+margin-left:32%;
+text-decoration:none;
+padding:15px 50px;
+}
+
+.pricingboxlink2{
+display:box;
+background-color:#333;
+color:#fff;
+width:200px;
+margin-left:28%;
+text-decoration:none;
+padding:15px 50px;
+}
+
+.bookingandworking{
+width:90%;
+float:left;
+margin-top:30px;
+margin-left:5%;
+margin-bottom:50px;
+}
+
+.booking2{
+width:52.5%;
+float:left;
+background-color:#F03828;
+color:#fff;
+padding:15px;
+}
+
+.booking2 ul{
+list-style-type: none;
+}
+
+.booking2 a{
+text-decoration:none;
+}
+
+.booking2 h2{
+text-align:center;
+}
+
+.working{
+width:42.5%;
+float:right;
+color:#000;
+padding:15px;
+border-style:solid;
+border-color: #F03828;
+border-width:1px;
+}
+
+.working ul{
+list-style-type: none;
+}
+
+.working h2{
+text-align:center;
+}
+
+.working p{
+padding-bottom:5px;
+}
+
+.touchplay{
+float:left;
+width:90%;
+margin-left:5%;
+margin-bottom:50px;
+}
+
+.getintouch{
+width:49.5%;
+height:600px;
+float:left;
+background-image: url("/bachelorboysband/img/links/BAND_5PC_BW.jpg");
+background-size: 700px 600px;
+background-repeat:no-repeat;
+overflow:hidden;
+text-align:center;
+}
+
+.getintouch a{
+width:30%;
+display:block;
+background-color:#fff;
+padding:15px;
+margin-left:35%;
+margin-top:35%;
+text-decoration:none;
+}
+
+.getintouch a:hover{
+opacity: 0.5;
+}
+
+.hearplay{
+width:49.5%;
+height:600px;
+float:right;
+background-image: url("/bachelorboysband/img/links/BAND_12PC_BW.jpg");
+background-size: 700px 600px;
+background-repeat:no-repeat;
+overflow:hidden;
+text-align:center;
+}
+
+.hearplay a{
+width:30%;
+display:block;
+background-color:#fff;
+padding:15px;
+margin-left:35%;
+margin-top:35%;
+text-decoration:none;
+}
+
+.hearplay a:hover{
+opacity: 0.5;
+}
+
+
+/* -- END SECOND PAGE PAGE "WEDDINGS" css -- */
+
+
+
+
+/* -- THIRD PAGE PAGE PAGE "CORPORATE" css -- */
+
+.corporateservices{
+float:left;
+width:90%;
+margin-left:5%;
+margin-bottom:50px;
+}
+
+.corporateservices h2{
+text-align:center;
+}
+
+.corporateservices h3{
+display:box;
+float:left;
+background-color:#F03828;
+text-align:center;
+color:#fff;
+border-radius:5px;
+padding:5px 10px;
+font-size:1.2em;
+}
+
+.servicescontainer{
+margin-left:2.5%;
+}
+
+.bandsize2{
+width:47.5%;
+float:right;
+text-align:center;
+border-color:#000;
+border-width:1px;
+border-style:solid;
+overflow:hidden;
+}
+
+.bandsize2 h6{
+margin-top:-15px;
+}
+
+.pricing2{
+width:47.5%;
+float:left;
+background-color:#F03828;
+padding:35px;
+}
+
+
+.pricing2 h2,h3{
+text-align:center;
+}
+
+.pricing2 h4{
+color:#fff;
+}
+
+.pricing2 p{
+margin-top:-10px;
+margin-bottom:36px;
+}
+
+
+
+/* -- END THIRD PAGE PAGE PAGE "CORPORATE" css -- */
+
+
+
+
+/* -- FOURTH PAGE PAGE PAGE "FESTIVALS" css -- */
+
+.availability{
+float:left;
+width:70%;
+margin-left:15%;
+margin-top:50px;
+margin-bottom:50px;
+text-align:center;
+}
+
+
+
+/* -- FOURTH PAGE PAGE PAGE "FESTIVALS" css -- */
 
 
 
@@ -932,11 +1324,63 @@ margin-top:170px;
 padding: 5px;
 }
 
+.introtextcontainer{
+width:100%;
+}
 
+.introtext{
+float:left;
+width:100%;
+}
 
+.circlelinkp2container{
+width:100%;
+float:left;
+}
 
+.circlelinkp2{
+width: 100%;
+height:auto;
+border-radius: 0px;
+padding-bottom: 20px;
+}
 
+.weddingservicescolumn{
+width:100%;
+}
 
+.bandsize{
+width:100%;
+}
+
+.pricing{
+width:100%;
+float:left;
+}
+
+.booking2{
+width:100%;
+}
+
+.working{
+width:100%;
+margin-top:50px;
+}
+
+.corporateservices h3{
+width:70%;
+margin-left:13%;
+}
+
+.bandsize2{
+width:100%;
+float:left;
+}
+
+.pricing2{
+width:100%;
+float:left;
+}
 
   
   
@@ -988,6 +1432,12 @@ float:left;
 margin-right:3%;
 width: 46%;
 float:right;
+}
+
+.corporateservices h3{
+width:25%;
+margin-left:3%;
+margin-right:3%;
 }
 
 
